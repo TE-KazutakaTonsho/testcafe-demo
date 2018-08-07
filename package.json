@@ -1,0 +1,11 @@
+{
+  "name": "testcafe-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "testcafe chrome tests/"
+  },
+  "devDependencies": {
+    "testcafe": "^0.21.0",
+    "testcafe-reporter-xunit": "^2.1.0"
+  }
+}
